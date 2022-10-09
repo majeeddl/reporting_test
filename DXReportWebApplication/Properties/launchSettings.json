@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DXReportWebApplication": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}
